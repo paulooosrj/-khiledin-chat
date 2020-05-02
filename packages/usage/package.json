@@ -1,6 +1,6 @@
 {
   "name": "usage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "Paulo Sergio <jskhanframework@gmail.com>",
   "homepage": "https://github.com/paulooosrj/khiledin#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/paulooosrj/khiledin/issues"
   },
   "dependencies": {
-    "@khiledin-chat/utils": "^1.0.1"
+    "@khiledin-chat/utils": "^1.0.2"
   }
 }
