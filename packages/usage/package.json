@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "@khiledin-chat/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "08dddd9afdb1dcb07e593697a76796999805a3d6"
 }
