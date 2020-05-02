@@ -1,5 +1,5 @@
 {
-  "name": "@khiledin-chat",
+  "name": "root",
   "private": true,
   "workspaces": {
     "packages": [
