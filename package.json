@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@khiledin-chat/root",
   "private": true,
   "workspaces": {
     "packages": [
@@ -8,5 +8,22 @@
   },
   "devDependencies": {
     "lerna": "^3.20.2"
-  }
+  },
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulooosrj/khiledin-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulooosrj/khiledin-chat/issues"
+  },
+  "homepage": "https://github.com/paulooosrj/khiledin-chat#readme"
 }
