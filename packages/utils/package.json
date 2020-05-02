@@ -1,6 +1,6 @@
 {
   "name": "@khiledin-chat/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Paulo Sergio <jskhanframework@gmail.com>",
   "homepage": "https://github.com/paulooosrj/khiledin#readme",
@@ -28,15 +28,18 @@
   },
   "dependencies": {
     "jest": "^25.5.3",
-    "jquery": "^3.5.0",
-    "jest-html-reporter": "latest"
+    "jest-html-reporter": "latest",
+    "jquery": "^3.5.0"
   },
   "jest": {
     "reporters": [
       "default",
-      ["./node_modules/jest-html-reporter", {
-        "pageTitle": "Test Report"
-      }]
+      [
+        "./node_modules/jest-html-reporter",
+        {
+          "pageTitle": "Test Report"
+        }
+      ]
     ]
   }
 }
