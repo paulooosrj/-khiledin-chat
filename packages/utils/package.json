@@ -1,5 +1,5 @@
 {
-  "name": "@khiledin-chat/utils",
+  "name": "utils",
   "version": "1.0.4",
   "description": "> TODO: description",
   "author": "Paulo Sergio <jskhanframework@gmail.com>",
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulooosrj/khiledin.git"
+    "url": "git+https://github.com/paulooosrj/khiledin-chat.git"
   },
   "scripts": {
     "test": "jest --coverage"
   },
   "bugs": {
-    "url": "https://github.com/paulooosrj/khiledin/issues"
+    "url": "https://github.com/paulooosrj/khiledin-chat/issues"
   },
   "dependencies": {
     "jest": "^25.5.3",
@@ -42,5 +42,5 @@
       ]
     ]
   },
-  "gitHead": "dab438c7d1bee4a201fb7a7d5cd79b9b360ca595"
+  "gitHead": "ce783235fec5cf577fb0dbf5f7bc350525028839"
 }
