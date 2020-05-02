@@ -2,7 +2,7 @@
 
 let sessionStorage, utils, document, $;
 
-describe('@khiledin-chat/utils', () => {
+describe('khiledin-chat-utils', () => {
 
   beforeEach(() => {
     sessionStorage = {};

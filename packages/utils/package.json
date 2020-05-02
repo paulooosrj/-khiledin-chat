@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "khiledin-chat-utils",
   "version": "1.0.5",
   "description": "> TODO: description",
   "author": "Paulo Sergio <jskhanframework@gmail.com>",
@@ -42,5 +42,5 @@
       ]
     ]
   },
-  "gitHead": "ce783235fec5cf577fb0dbf5f7bc350525028839"
+  "gitHead": "dbadea8840ca266c5e62b9c161558387b9f26f68"
 }
