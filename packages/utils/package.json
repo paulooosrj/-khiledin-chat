@@ -8,7 +8,7 @@
   "main": "lib/utils.js",
   "directories": {
     "lib": "lib"
-  },
+  }, 
   "files": [
     "lib"
   ],
@@ -40,5 +40,6 @@
         }
       ]
     ]
-  }
+  },
+  "gitHead": "d3427c1183c150042c847b5228cc35c32a9ec49a"
 }
