@@ -1,13 +1,13 @@
 {
   "name": "@khiledin-chat/utils",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "> TODO: description",
   "author": "Paulo Sergio <jskhanframework@gmail.com>",
   "homepage": "https://github.com/paulooosrj/khiledin#readme",
   "license": "ISC",
   "main": "lib/utils.js",
   "directories": {
-    "lib": "lib", 
+    "lib": "lib",
     "test": "__tests__"
   },
   "files": [
