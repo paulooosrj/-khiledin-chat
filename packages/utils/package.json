@@ -7,8 +7,7 @@
   "license": "ISC",
   "main": "lib/utils.js",
   "directories": {
-    "lib": "lib",
-    "test": "__tests__"
+    "lib": "lib"
   },
   "files": [
     "lib"
@@ -42,5 +41,5 @@
       ]
     ]
   },
-  "gitHead": "8a684effb66c62a249978492798b4b0bf892feba"
+  "devDependencies": {}
 }
