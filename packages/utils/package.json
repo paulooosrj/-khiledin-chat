@@ -1,6 +1,6 @@
 {
   "name": "@khiledin-chat/utils",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "> TODO: description",
   "author": "Paulo Sergio <jskhanframework@gmail.com>",
   "homepage": "https://github.com/paulooosrj/khiledin#readme",
@@ -40,6 +40,5 @@
         }
       ]
     ]
-  },
-  "devDependencies": {}
+  }
 }
